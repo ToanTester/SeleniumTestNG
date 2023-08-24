@@ -4,3 +4,5 @@ Source code quản lý Testcase
 Basic Annotations, testNG xml
 
 Annotations
+
+Class Assertion
